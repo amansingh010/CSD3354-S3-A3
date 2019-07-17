@@ -1,0 +1,25 @@
+﻿Emma	Latin
+2	Liam	German
+3	Noah	Hebrew
+4	Olivia	Latin
+5	Ava	Hebrew
+6	Isabella	Hebrew
+7	Sophia	Greek
+8	Elijah	Hebrew
+9	Logan	Celtic
+10	Mia	Latin
+11	Mason	French
+12	James	Hebrew
+13	Aiden	Celtic
+14	Ethan	Hebrew
+15	Lucas	Latin
+16	Jacob	Hebrew
+17	Michael	Hebrew
+18	Matthew	Hebrew
+19	Benjamin	Hebrew
+20	Amelia	Hebrew
+21	Charlotte	Norse
+22	Alexander	Greek
+23	William	German
+24	Daniel	Hebrew
+25	Jayden	Hebrew
